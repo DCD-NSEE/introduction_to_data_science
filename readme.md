@@ -55,6 +55,6 @@ Esperamos que este repositório seja útil para sua jornada de aprendizado em ci
  ## Supervisores
 
  - [Lucas Buk](#https://github.com/Lucas-Buk)
- - [Jones Egydio](#)
+ - [Jones Egydio](#https://github.com/jegydio)
 
 
