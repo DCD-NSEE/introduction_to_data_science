@@ -20,7 +20,7 @@ Para começar a usar os recursos deste repositório, siga estas etapas:
     ```git clone https://github.com/pedrogjmesquita/python_notebooks```
 
 
-2. Abra os notebooks em seu ambiente de desenvolvimento Python, de preferência o [Google Colaboratory](#https://research.google.com/colaboratory/), porém pode se usar localmente o [Jupyter Notebook](#https://jupyter.org/) ou o [VSCode](#https://code.visualstudio.com/).
+2. Abra os notebooks em seu ambiente de desenvolvimento Python, de preferência o [Google Colaboratory](https://research.google.com/colaboratory/), porém pode se usar localmente o [Jupyter Notebook](https://jupyter.org/) ou o [VSCode](https://code.visualstudio.com/).
 
 3. Navegue pelos notebooks numerados para acessar diferentes lições e exercícios.
 
@@ -49,12 +49,12 @@ Esperamos que este repositório seja útil para sua jornada de aprendizado em ci
 
 ## Contribuidores
 
- - [Pedro G. J. Mesquita ](#https://github.com/pedrogjmesquita)
- - [Bryan Chin](#https://github.com/LORDCHIN)
+ - [Pedro G. J. Mesquita ](https://github.com/pedrogjmesquita)
+ - [Bryan Chin](https://github.com/LORDCHIN)
 
  ## Supervisores
 
- - [Lucas Buk](#https://github.com/Lucas-Buk)
- - [Jones Egydio](#https://github.com/jegydio)
+ - [Lucas Buk](https://github.com/Lucas-Buk)
+ - [Jones Egydio](https://github.com/jegydio)
 
 
