@@ -24,7 +24,10 @@ class teste():
 
     def preparaPYNB4(self):
         self.resposta_4_2 = [7, 9, 5, 2, 0]
-        self.resposta_4_5a,self.resposta_4_5b,self.resposta_4_6a,self.resposta_4_5b = True
+        self.resposta_4_5a = True
+        self.resposta_4_5b = True
+        self.resposta_4_6a = True
+        self.resposta_4_5b = True
         self.resposta_4_7 = 47
         self.respostas_PYNB3 = {'4_2': self.resposta_4_2,'4_5a': self.resposta_4_5a,'4_5b': self.resposta_4_5b,'4_6a': self.resposta_4_6a,'4_5b': self.resposta_4_5b,'4_7': self.resposta_4_7}
 
