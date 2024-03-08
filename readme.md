@@ -1,6 +1,6 @@
 # Introdução à Ciência de Dados - NSEE
 <p align="center">
-  <img src="https://scontent-gru1-1.cdninstagram.com/v/t51.2885-19/190687941_204986924790877_2081934706775828299_n.jpg?stp=dst-jpg_s320x320&_nc_ht=scontent-gru1-1.cdninstagram.com&_nc_cat=101&_nc_ohc=zSUkc4bE1CIAX-i90W_&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDTMBW5lsDotItvppf4zGU2PyeRDzfXGrDXz7GwNoo9zA&oe=65F109CA&_nc_sid=8b3546",width=200, height=120/>
+  <img src="https://scontent-gru1-1.cdninstagram.com/v/t51.2885-19/190687941_204986924790877_2081934706775828299_n.jpg?stp=dst-jpg_s320x320&_nc_ht=scontent-gru1-1.cdninstagram.com&_nc_cat=101&_nc_ohc=zSUkc4bE1CIAX-i90W_&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDTMBW5lsDotItvppf4zGU2PyeRDzfXGrDXz7GwNoo9zA&oe=65F109CA&_nc_sid=8b3546",width=400, height=240/>
 </p>
 
 ___
